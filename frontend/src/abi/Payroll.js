@@ -138,4 +138,4 @@ export const PAYROLL_ABI = [
 ];
 
 // Replace with your deployed contract address
-export const PAYROLL_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+export const PAYROLL_ADDRESS = "0x1AA12D1d9fCAF487Cc9D64448be859f55175bC19";
