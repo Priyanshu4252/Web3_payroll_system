@@ -4,6 +4,9 @@
 
 🌐 **Live Demo:** [paychain-six.vercel.app](https://paychain-six.vercel.app)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5edb974c-81d6-4eb1-9b0d-508dffa419f5" />
+
+
 ---
 
 ## 📌 Overview
